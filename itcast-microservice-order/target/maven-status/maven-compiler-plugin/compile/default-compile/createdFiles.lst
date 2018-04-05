@@ -1,9 +1,0 @@
-cn\itcast\microservice\order\service\ItemService.class
-cn\itcast\microservice\order\service\OrderService.class
-cn\itcast\microservice\order\domain\Item.class
-cn\itcast\microservice\order\domain\Order.class
-cn\itcast\microservice\order\controll\OrderController.class
-cn\itcast\microservice\order\domain\OrderDetail.class
-cn\itcast\microservice\feign\ItemFeignClient.class
-cn\itcast\microservice\test\ItemServiceTest.class
-cn\itcast\microservice\order\OrderApplication.class
