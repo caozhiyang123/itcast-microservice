@@ -14,5 +14,6 @@ public class EurekaServer {
     public static void main(String[] args){
         SpringApplication.run(EurekaServer.class,args);
         System.out.println("hello everyone,my name is caozhiyang");
+        System.out.println("hello everyone , my name is jack ");
     }
 }
